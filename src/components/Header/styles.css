@@ -1,0 +1,31 @@
+.header{
+    width: 100%;
+    box-sizing: border-box;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.searchbar{
+    box-sizing: border-box;
+    width: fit-content;
+    border-bottom: 2px solid rgba(195, 190, 190, 0.55);
+    display: flex;
+    gap: 8px;
+    padding-bottom: 5px;
+}
+.searchicon{
+    width:25px;
+    height: 25px;
+    border-radius: 50%;
+    background-color: rgba(137, 43, 226, 0.369);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo{
+    width: fit-content;
+    display: flex;
+    align-items: center;
+    gap: 2px;
+    height: fit-content;
+}
