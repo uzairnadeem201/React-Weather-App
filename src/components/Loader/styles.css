@@ -1,0 +1,12 @@
+.loader {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  height: 100vh; 
+  font-size: 50px;
+  box-sizing: border-box;
+  padding-bottom: 20%;
+  color:aliceblue;
+}
