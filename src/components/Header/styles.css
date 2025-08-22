@@ -29,3 +29,22 @@
     gap: 2px;
     height: fit-content;
 }
+@media (max-width: 575px){
+    .h3{
+        font-size:10px;
+    }
+    .searchicon{
+    width:15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: rgba(137, 43, 226, 0.369);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+}
+@media (max-width: 575px){
+    .input{
+        width: 100px;
+    }
+}
