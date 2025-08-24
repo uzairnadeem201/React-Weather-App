@@ -1,7 +1,7 @@
 .dayweather {
   display: flex;
   flex-direction: column;
-  padding: 5px;
+  padding: 1px;
 }
 .time-date{
     display: flex;
